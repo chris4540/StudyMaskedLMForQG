@@ -1,0 +1,271 @@
+Evaluation set 1
+As at most other universities, Notre Dame's students run a number of news media outlets. The nine student-run outlets include three newspapers, both a radio and television station, and several magazines and journals. Begun as a one-page journal in September 1876, the Scholastic magazine is issued twice monthly and claims to be the oldest continuous collegiate publication in the United States. The other magazine, The Juggler, is released [HL]twice[HL] a year and focuses on student literature and artwork. The Dome yearbook is published annually. The newspapers have varying publication interests, with The Observer published daily and mainly reporting university and other news, and staffed by students from both Notre Dame and Saint Mary's College. Unlike Scholastic and The Dome, The Observer is an independent publication and does not have a faculty advisor or any editorial oversight from the University. In 1987, when some students believed that The Observer began to show a conservative bias, a liberal newspaper, Common Sense was published. Likewise, in 2003, when other students believed that the paper showed a liberal bias, the conservative paper Irish Rover went into production. Neither paper is published as often as The Observer; however, all three are distributed to all students. Finally, in Spring 2008 an undergraduate journal for political science research, Beyond Politics, made its debut.
+
+Question 1: how many times is the juggler published each year at notre
+
+Question 2: how many times is the juggle student's magazine, the observer released each year?
+
+Question 3: how many times a year is the other magazine, the juggler, released each year?
+
+Evaluation set 2
+In the first years of the Republic, controversy arose within the Reformed Church, mainly around the subject of predestination. This has become known as the struggle between Arminianism and Gomarism, or between Remonstrants and Contra-Remonstrants. In 1618 [HL]the Synod of Dort[HL] tackled this issue, which led to the banning of the Remonstrant faith.
+
+Question 1: what synod banned the remonstrants in 1618?
+
+Question 2: what decided the banning of remonstrants led to
+
+Question 3: what group banned the remonstrant faith in 1618?
+
+Evaluation set 3
+Beginning in the late 1950s and 1960s, architectural phenomenology emerged as an important movement in the early reaction against modernism, with architects like Charles Moore in the USA, Christian Norberg-Schulz in Norway, and Ernesto Nathan Rogers and Vittorio Gregotti in Italy, who collectively popularized an interest in a new contemporary architecture aimed at expanding [HL]human experience[HL] using historical buildings as models and precedents. Postmodernism produced a style that combined contemporary building technology and cheap materials, with the aesthetics of older pre-modern and non-modern styles, from high classical architecture to popular or vernacular regional building styles. Robert Venturi famously defined postmodern architecture as a "decorated shed" (an ordinary building which is functionally designed inside and embellished on the outside), and upheld it against modernist and brutalist "ducks" (buildings with unnecessarily expressive tectonic forms).
+
+Question 1: what was the focus of the new contemporary architecture movement in the
+
+Question 2: what was the aim of contemporary architecture at expanding?
+
+Question 3: what was the main focus of modernism in expanding?
+
+Evaluation set 4
+Dogs are highly variable in height and weight. The smallest known adult dog was a Yorkshire Terrier, that stood only 6.3 cm (2.5 in) at the shoulder, 9.5 cm (3.7 in) in length along the head-and-body, and weighed only 113 grams (4.0 oz). The largest known dog was an [HL]English Mastiff[HL] which weighed 155.6 kg (343 lb) and was 250 cm (98 in) from the snout to the tail. The tallest dog is a Great Dane that stands 106.7 cm (42.0 in) at the shoulder.
+
+Question 1: what was the largest known dog in the british isles?
+
+Question 2: what was the largest known dog dog?
+
+Question 3: what was the largest known dog dog?
+
+Evaluation set 5
+Though the iPod was released in 2001, its price and Mac-only compatibility caused sales to be relatively slow until 2004. The iPod line came from Apple's "digital hub" category, when the company began creating software for the growing market of personal digital devices. Digital cameras, camcorders and organizers had well-established mainstream markets, but the company found existing digital music players "big and clunky or small and useless" with user interfaces that were "unbelievably awful," so Apple decided to develop its own. As ordered by CEO Steve Jobs, Apple's hardware engineering chief Jon Rubinstein assembled a team of engineers to design the iPod line, including hardware engineers Tony Fadell and Michael Dhuey, and design engineer Sir Jonathan Ive. Rubinstein had already discovered the Toshiba disk drive when meeting with an Apple supplier in Japan, and purchased the rights to it for Apple, and had also already worked out how the screen, battery, and other key elements would work. The aesthetic was inspired by the 1958 Braun T3 transistor radio designed by Dieter Rams, while the wheel based user interface was prompted by Bang & Olufsen's BeoCom 6000 telephone. The product ("the Walkman of the twenty-first century" ) was developed in less than one year and unveiled on October 23, 2001. Jobs announced it as a Mac-compatible product with a [HL]5 GB[HL] hard drive that put "1,000 songs in your pocket."
+
+Question 1: how big was drive?
+
+Question 2: how big was it?
+
+Question 3: how much hard drive did apple have that put " 1, 000 songs in your pocket " in 2001
+
+Evaluation set 6
+Traditional architecture is distinctive and include the Manueline, also known as [HL]Portuguese late Gothic[HL], a sumptuous, composite Portuguese style of architectural ornamentation of the first decades of the 16th century. A 20th-century interpretation of traditional architecture, Soft Portuguese style, appears extensively in major cities, especially Lisbon. Modern Portugal has given the world renowned architects like Eduardo Souto de Moura, Álvaro Siza Vieira (both Pritzker Prize winners) and Gonçalo Byrne. In Portugal Tomás Taveira is also noteworthy, particularly for stadium design.
+
+Question 1: what is the manueline also known as?
+
+Question 2: what is the name for the manueline's traditional style of architecture ornamentation?
+
+Question 3: what is another name for the typifies style of traditional architecture as used by manueline
+
+Evaluation set 7
+The collateralized debt obligation in particular enabled financial institutions to obtain investor funds to finance subprime and other lending, extending or increasing the housing bubble and generating large fees. This essentially places cash payments from multiple mortgages or other debt obligations into a single pool from which specific securities draw in a specific sequence of priority. Those securities first in line received [HL]investment-grade ratings[HL] from rating agencies. Securities with lower priority had lower credit ratings but theoretically a higher rate of return on the amount invested.
+
+Question 1: what ratings did securities that were first in line receive from rating agencies?
+
+Question 2: what ratings were the securities first in the market receive from rating agencies in
+
+Question 3: what did securities first in line receive from rating agencies?
+
+Evaluation set 8
+Commercial CSP plants were first developed in the 1980s. Since 1985 the eventually 354 MW SEGS CSP installation, in the [HL]Mojave Desert of California[HL], is the largest solar power plant in the world. Other large CSP plants include the 150 MW Solnova Solar Power Station and the 100 MW Andasol solar power station, both in Spain. The 250 MW Agua Caliente Solar Project, in the United States, and the 221 MW Charanka Solar Park in India, are the world’s largest photovoltaic plants. Solar projects exceeding 1 GW are being developed, but most of the deployed photovoltaics are in small rooftop arrays of less than 5 kW, which are grid connected using net metering and/or a feed-in tariff. In 2013 solar generated less than 1% of the worlds total grid electricity.
+
+Question 1: where is the largest solar power plant in the world?
+
+Question 2: where is the largest solar power plant in the world?
+
+Question 3: where is the segs csp plant located in?
+
+Evaluation set 9
+Tajikistan (i/tɑːˈdʒiːkᵻstɑːn/, /təˈdʒiːkᵻstæn/, or /tæˈdʒiːkiːstæn/; Persian: تاجيكستان‎‎ Тоҷикистон [tɔd͡ʒikɪsˈtɔn]), officially the Republic of Tajikistan (Persian: جمهورى تاجيكستان‎‎ Tajik: Ҷумҳурии Тоҷикистон, Çumhuriji Toçikiston/Jumhuriyi Tojikiston; Russian: Респу́блика Таджикистан, Respublika Tadzhikistan), is a mountainous, landlocked country in Central Asia with an estimated 8 million people in 2013, and an [HL]area of 143,100 km2 (55,300 sq mi)[HL]. It is bordered by Afghanistan to the south, Uzbekistan to the west, Kyrgyzstan to the north, and China to the east. Pakistan lies to the south, separated by the narrow Wakhan Corridor. Traditional homelands of Tajik people included present-day Tajikistan, Afghanistan and Uzbekistan.
+
+Question 1: what is the geographic size of the country of tajikistan?
+
+Question 2: what is the size of the land mass of tajikistan?
+
+Question 3: what is tajikistan's total area?
+
+Evaluation set 10
+In fact, process theology is difficult to define because process theologians are so diverse and transdisciplinary in their views and interests. John B. Cobb, Jr. is a process theologian who has also written books on biology and economics. Roland Faber and Catherine Keller integrate Whitehead with poststructuralist, postcolonialist, and feminist theory. Charles Birch was both a theologian and a [HL]geneticist[HL]. Franklin I. Gamwell writes on theology and political theory. In Syntheism - Creating God in The Internet Age, futurologists Alexander Bard and Jan Söderqvist repeatedly credit Whitehead for the process theology they see rising out of the participatory culture expected to dominate the digital era.
+
+Question 1: along with being a theologian, what was charles birch's profession?
+
+Question 2: what was charles birch's occupation?
+
+Question 3: aside from being a theologian, what was charles birch's profession?
+
+Evaluation set 11
+The novel has been noted for its poignant exploration of different forms of courage. Scout's impulsive inclination to fight students who insult [HL]Atticus[HL] reflects her attempt to stand up for him and defend him. Atticus is the moral center of the novel, however, and he teaches Jem one of the most significant lessons of courage. In a statement that foreshadows Atticus' motivation for defending Tom Robinson and describes Mrs. Dubose, who is determined to break herself of a morphine addiction, Atticus tells Jem that courage is "when you're licked before you begin but you begin anyway and you see it through no matter what".
+
+Question 1: who is the moral center of the novel?
+
+Question 2: who does students try to kill scout?
+
+Question 3: who do the students throws at scout '
+
+Evaluation set 12
+
+ France: The torch relay leg in Paris, held on April 7, began on the first level of the Eiffel Tower and finished at the Stade Charléty. The relay was initially supposed to cover 28 km, but it was shortened at the demand of Chinese officials following widespread protests by pro-Tibet and human rights activists, who repeatedly attempted to disrupt, hinder or halt the procession. A scheduled ceremony at the town hall was cancelled at the request of the Chinese authorities, and, also at the request of Chinese authorities, the torch finished the relay by bus instead of being carried by athletes. Paris City officials had announced plans to greet the Olympic flame with peaceful protest when the torch was to reach the French capital. The city government attached a banner reading "Paris defends human rights throughout the world" to the City Hall, in an attempt to promote values "of all humanity and of human rights." Members from Reporters Without Borders turned out in large numbers to protest. An estimated [HL]3,000[HL] French police protected the Olympic torch relay as it departed from the Eiffel Tower and criss-crossed Paris amid threat of protests. Widespread pro-Tibet protests, including an attempt by more than one demonstrator to extinguish the flame with water or fire extinguishers, prompted relay authorities to put out the flame five times (according to the police authorities in Paris) and load the torch onto a bus, at the demand of Chinese officials. This was later denied by the Chinese Ministry of Foreign Affairs, despite video footage broadcast by French television network France 2 which showed Chinese flame attendants extinguishing the torch. Backup flames are with the relay at all times to relight the torch. French judoka and torchbearer David Douillet expressed his annoyance at the Chinese flame attendants who extinguished the torch which he was about to hand over to Teddy Riner: "I understand they're afraid of everything, but this is just annoying. They extinguished the flame despite the fact that there was no risk, and they could see it and they knew it. I don't know why they did it."
+
+Question 1: how many french police protected the olympic relay
+
+Question 2: how many french police defended the olympic torch relay as it departed from the eiffel tower and criss - crossed paris?
+
+Question 3: how many french police protected the relay?
+
+Evaluation set 13
+French members of [HL]Parliament[HL] and other French politicians also organised a protest. All political parties in Parliament—UMP, Socialists, New Centre, Communists, Democratic Movement (centre) and Greens—jointly requested a pause in the National Assembly's session, which was granted, so that MPs could step outside and unfurl a banner which read "Respect for Human Rights in China". The coach containing the torch drove past the National Assembly and the assembled protesting MPs, who shouted "Freedom for Tibet!" several times as it passed.
+
+Question 1: french members of what french government also organized a protest?
+
+Question 2: french politicians from what body organized a protest to protest
+
+Question 3: french members of what french government also organized a protest?
+
+Evaluation set 14
+Prior to the crisis, financial institutions became highly leveraged, increasing their appetite for risky investments and reducing their resilience in case of losses. Much of this leverage was achieved using [HL]complex financial instruments[HL] such as off-balance sheet securitization and derivatives, which made it difficult for creditors and regulators to monitor and try to reduce financial institution risk levels. These instruments also made it virtually impossible to reorganize financial institutions in bankruptcy, and contributed to the need for government bailouts.
+
+Question 1: what made it difficult for creditors and regulators to monitor and try to reduce the financial institution risk levels?
+
+Question 2: what is used to leverage the leverage of off - balance sheet securitization?
+
+Question 3: what type of leverage resulted from off - balance sheet securitization and derivatives?
+
+Evaluation set 15
+The success of American Idol has been described as "unparalleled in broadcasting history". The series was also said by [HL]a rival TV executive[HL] to be "the most impactful show in the history of television". It has become a recognized springboard for launching the career of many artists as bona fide stars. According to Billboard magazine, in its first ten years, "Idol has spawned 345 Billboard chart-toppers and a platoon of pop idols, including Kelly Clarkson, Carrie Underwood, Chris Daughtry, Fantasia, Ruben Studdard, Jennifer Hudson, Clay Aiken, Adam Lambert and Jordin Sparks while remaining a TV ratings juggernaut."
+
+Question 1: who said that american idol was the most impactful on tv history?
+
+Question 2: who said american idol was the most impactful show in the history of television?
+
+Question 3: who said american idol was the most impact the history of television "?
+
+Evaluation set 16
+Further references to Fleming's material can be found throughout the film; an MI6 safehouse is called "Hildebrand Rarities and Antiques", a reference to the short story "The Hildebrand Rarity" from the For Your Eyes Only short story collection.[citation needed] Bond's torture by [HL]Blofeld[HL] mirrors his torture by the title character of Kingsley Amis' continuation novel Colonel Sun.[citation needed]
+
+Question 1: who was used as bond's torture?
+
+Question 2: who wrote bond's torture??
+
+Question 3: who is the character of bond's?
+
+Evaluation set 17
+In 2001, she became the first African-American woman and second woman songwriter to win the Pop Songwriter of the Year award at the American Society of Composers, Authors, and Publishers Pop Music Awards. Beyoncé was the third woman to have writing credits on three number one songs ("Irreplaceable", "Grillz" and "Check on It") in the same year, after Carole King in 1971 and Mariah Carey in 1991. She is tied with American songwriter Diane Warren at third with nine songwriting credits on number-one singles. (The latter wrote her 9/11-motivated song "I Was Here" for 4.) In May 2011, Billboard magazine listed Beyoncé at number 17 on their list of the "[HL]Top 20 Hot 100 Songwriters[HL]", for having co-written eight singles that hit number one on the Billboard Hot 100 chart. She was one of only three women on that list.
+
+Question 1: in may 2011, billboard magazine listed beyonce at which number of songwriter?
+
+Question 2: what did billboard magazine list as a number 17 artist in may 2011?
+
+Question 3: by billboard magazine, who ranked beyonce at number 17 in may 2011,
+
+Evaluation set 18
+Much media attention on the season had been focused on the three black singers, Fantasia Barrino, LaToya London, and Jennifer Hudson, dubbed the Three Divas. All three unexpectedly landed on the bottom three on the top seven result show, with Hudson controversially eliminated. [HL]Elton John[HL], who was one of the mentors that season, called the results of the votes "incredibly racist". The prolonged stays of John Stevens and Jasmine Trias in the finals, despite negative comments from the judges, had aroused resentment, so much so that John Stevens reportedly received a death threat, which he dismissed as a joke 'blown out of proportion'.
+
+Question 1: who was one of the mentors in the final season?
+
+Question 2: which artist called the judges opinion of the votes " incredibly racist "?
+
+Question 3: which artist called the results of the idol votes " incredibly racist "?
+
+Evaluation set 19
+Some of Chopin's well-known pieces have acquired descriptive titles, such as the Revolutionary Étude (Op. 10, No. 12), and the [HL]Minute Waltz[HL] (Op. 64, No. 1). However, with the exception of his Funeral March, the composer never named an instrumental work beyond genre and number, leaving all potential extramusical associations to the listener; the names by which many of his pieces are known were invented by others. There is no evidence to suggest that the Revolutionary Étude was written with the failed Polish uprising against Russia in mind; it merely appeared at that time. The Funeral March, the third movement of his Sonata No. 2 (Op. 35), the one case where he did give a title, was written before the rest of the sonata, but no specific event or death is known to have inspired it.
+
+Question 1: which of of chopin's well known pieces has acquired descriptive title?
+
+Question 2: what is the name of one of chopin's well - known pieces that is
+
+Question 3: which of chopin's well - known pieces has acquired descriptive title?
+
+Evaluation set 20
+As soon as Schwarzenegger was elected governor, [HL]Willie Brown[HL] said he would start a drive to recall the governor. Schwarzenegger was equally entrenched in what he considered to be his mandate in cleaning up gridlock. Building on a catchphrase from the sketch "Hans and Franz" from Saturday Night Live (which partly parodied his bodybuilding career), Schwarzenegger called the Democratic State politicians "girlie men".
+
+Question 1: who said that schwarzenegger was governor?
+
+Question 2: who was the first to recall the governor?
+
+Question 3: who said he would start a drive to recall the governor?
+
+Evaluation set 21
+A self-described "modern-day feminist", Beyoncé creates songs that are often characterized by themes of love, relationships, and monogamy, as well as female sexuality and empowerment. On stage, her dynamic, highly choreographed performances have led to critics hailing her as one of the best entertainers in contemporary popular music. Throughout a career spanning 19 years, she has sold over 118 million records as a solo artist, and a further 60 million with Destiny's Child, making her one of the best-selling music artists of all time. She has won 20 Grammy Awards and is the most nominated woman in the award's history. The Recording Industry Association of America recognized her as the Top Certified Artist in America during the 2000s decade. In 2009, Billboard named her the Top Radio Songs Artist of the Decade, the Top Female Artist of the 2000s and their Artist of the Millennium in 2011. Time listed her among the 100 most [HL]influential[HL] people in the world in 2013 and 2014. Forbes magazine also listed her as the most powerful female musician of 2015.
+
+Question 1: how did time rank her as one of the 100 most influential people in the world in 2013 and 2014?
+
+Question 2: time listed her as one of the 100 most powerful people in the world in what way?
+
+Question 3: in 2013 2014, time stated as she was one of the 100 most who in the world
+
+Evaluation set 22
+Christianity (59%), particularly Catholicism (33%), was the most prevalently practiced religion in New York as of 2014, followed by Judaism, with approximately [HL]1.1 million[HL] Jews in New York City, over half living in Brooklyn. Islam ranks third in New York City, with official estimates ranging between 600,000 and 1,000,000 observers and including 10% of the city's public schoolchildren, followed by Hinduism, Buddhism, and a variety of other religions, as well as atheism. In 2014, 24% self-identified with no organized religious affiliation.
+
+Question 1: how many jews are there in new york
+
+Question 2: how many jews live in new york?
+
+Question 3: how many jews are there in the city of new york city?
+
+Evaluation set 23
+Feminist economists Ailsa McKay and Margunn Bjørnholt argue that the financial crisis and the response to it revealed a crisis of ideas in mainstream economics and within the economics profession, and call for [HL]a reshaping[HL] of both the economy, economic theory and the economics profession. They argue that such a reshaping should include new advances within feminist economics and ecological economics that take as their starting point the socially responsible, sensible and accountable subject in creating an economy and economic theories that fully acknowledge care for each other as well as the planet.
+
+Question 1: what do feminist economists and margunn bjørnholt call for?
+
+Question 2: what do feminist economists call for when addressing the economic theory, economy and the economics profession
+
+Question 3: what did bjørnholt call for in regards to economics
+
+Evaluation set 24
+Media anthropology (also known as anthropology of media or mass media) emphasizes ethnographic studies as a means of understanding producers, audiences, and other cultural and social aspects of mass media. The types of [HL]ethnographic[HL] contexts explored range from contexts of media production (e.g., ethnographies of newsrooms in newspapers, journalists in the field, film production) to contexts of media reception, following audiences in their everyday responses to media. Other types include cyber anthropology, a relatively new area of internet research, as well as ethnographies of other areas of research which happen to involve media, such as development work, social movements, or health education. This is in addition to many classic ethnographic contexts, where media such as radio, the press, new media and television have started to make their presences felt since the early 1990s.
+
+Question 1: what is the type of contexts explored by media anthropology??
+
+Question 2: what type of contexts is ranged from contexts to contexts of media production and media reception?
+
+Question 3: what type of contexts are explored in the context of media production, media and cultural anthropology?
+
+Evaluation set 25
+The iTunes Store (introduced [HL]April 29, 2003[HL]) is an online media store run by Apple and accessed through iTunes. The store became the market leader soon after its launch and Apple announced the sale of videos through the store on October 12, 2005. Full-length movies became available on September 12, 2006.
+
+Question 1: when was the itunes store introduced?
+
+Question 2: when was the first?
+
+Question 3: when was itunes introduced?
+
+Evaluation set 26
+The period known as the Crusades, a series of religiously motivated military expeditions originally intended to bring the Levant back into Christian rule, began. Several Crusader states were founded in the eastern Mediterranean. These were all short-lived. The Crusaders would have a profound impact on many parts of Europe. Their Sack of Constantinople in 1204 brought an abrupt end to [HL]the Byzantine Empire[HL]. Though it would later be re-established, it would never recover its former glory. The Crusaders would establish trade routes that would develop into the Silk Road and open the way for the merchant republics of Genoa and Venice to become major economic powers. The Reconquista, a related movement, worked to reconquer Iberia for Christendom.
+
+Question 1: the sack of constantinople brought an abrupt end to what empire?
+
+Question 2: who suffered the sack of constantinople in 1204?
+
+Question 3: the sack of constantinople brought the end to what?
+
+Evaluation set 27
+Baird Television Ltd. made Britain's first television broadcast, on 30 September 1929 from its studio in Long Acre, London, via the BBC's London transmitter, using the electromechanical system pioneered by John Logie Baird. This system used a vertically-scanned image of 30 lines – just enough resolution for a close-up of one person, and with a bandwidth low enough to use existing radio transmitters. Simultaneous transmission of sound and picture was achieved on [HL]30 March 1930[HL], by using the BBC's new twin transmitter at Brookmans Park. By late 1930, 30 minutes of morning programmes were broadcast Monday to Friday, and 30 minutes at midnight on Tuesdays and Fridays, after BBC radio went off the air. Baird broadcasts via the BBC continued until June 1932.
+
+Question 1: when was simultaneous transmission of sound and picture?
+
+Question 2: when was simultaneous transmission of sound and picture achieved?
+
+Question 3: when was transmission of sound and picture achieved?
+
+Evaluation set 28
+Whitehead did not begin his career as a philosopher. In fact, he never had any formal training in philosophy beyond his undergraduate education. Early in his life he showed great interest in and respect for philosophy and metaphysics, but it is evident that he considered himself a rank amateur. In one letter to his friend and former student Bertrand Russell, after discussing whether science aimed to be explanatory or merely descriptive, he wrote: "This further question lands us in the ocean of metaphysic, onto which my profound ignorance of that science forbids me to enter." Ironically, in later life Whitehead would become [HL]one of the 20th century's foremost metaphysicians.[HL]
+
+Question 1: what role did whitehead play in later life?
+
+Question 2: in later life, what did whitehead consider to be?
+
+Question 3: in later life, what position did whitehead sometimes hold?
+
+Evaluation set 29
+The 19th-century English art critic, [HL]John Ruskin[HL], in his Seven Lamps of Architecture, published 1849, was much narrower in his view of what constituted architecture. Architecture was the "art which so disposes and adorns the edifices raised by men ... that the sight of them" contributes "to his mental health, power, and pleasure".
+
+Question 1: who was the author of the seven lamps of architecture?
+
+Question 2: who wrote the 19th century the seven lamps of architecture?
+
+Question 3: who was the author of seven lamps of architecture?
+
+Evaluation set 30
+Manhattan's skyline, with its many skyscrapers, is universally recognized, and the city has been home to several of the tallest buildings in the world. As of 2011, New York City had 5,937 high-rise buildings, of which 550 completed structures were at least 330 feet (100 m) high, both second in the world after Hong Kong, with over 50 completed skyscrapers taller than 656 feet (200 m). These include the Woolworth Building ([HL]1913[HL]), an early gothic revival skyscraper built with massively scaled gothic detailing.
+
+Question 1: in what year was the woolworth building?
+
+Question 2: what year was the woolworth building completed?
+
+Question 3: in what year was the woolworth building built?
+

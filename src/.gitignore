@@ -1,0 +1,24 @@
+# -------------------------
+# Output model folders
+# -------------------------
+*-log/
+*-logdir/
+*-cache/
+*-output/
+*-out/
+*-out
+run.sh
+
+# some testing scripts
+run-*.py
+main.py
+main-*.py
+work.ipynb
+*.npz
+*.bin
+
+events.out.*
+**/checkpoint-*
+**/optimizer.pt
+**/scheduler.pt
+

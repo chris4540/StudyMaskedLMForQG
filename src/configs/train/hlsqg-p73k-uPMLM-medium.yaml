@@ -1,0 +1,88 @@
+#
+# Configuration file for the experiment HLSQG Sentence 73k replication
+#
+# Paper:
+# A Recurrent BERT-based Model for Question Generation, Ying-Hong Chan, Yao-Chung Fan
+# https://www.aclweb.org/anthology/D19-5821/
+
+# experiment name
+exp_name:
+    "uPMLM-p73k-medium"
+
+# expeiment Log level
+loglevel:
+    info
+
+# model
+model_name:
+    "bert-medium-uncased"
+# -----------------------------
+# DataProcessingArguments
+# -----------------------------
+
+txtds_cache_dir:
+    ./cached_txtds
+
+# -------------------------------
+# TrainingArguments
+# -------------------------------
+output_dir:
+    "./{exp_name}-out"
+
+logging_dir:
+    "./{exp_name}-log"
+
+do_train:
+    true
+
+do_eval:
+    true
+
+evaluate_during_training:
+    true
+
+# hlsqg ~ 62656 steps; 27 train epochs ~ 63855 steps
+num_train_epochs:
+    27
+# max_steps:
+#     62656
+
+logging_steps:
+    10000
+
+save_steps:
+    10000
+
+eval_steps:
+    10000
+
+save_total_limit:
+    50
+
+per_device_train_batch_size:
+    32
+
+per_device_eval_batch_size:
+    32
+
+# ----------
+# fp16
+# ----------
+fp16:
+    true
+
+fp16_opt_level:
+    O2
+
+
+# ---------------
+# GenerationArgs
+# ---------------
+do_gen_eval:
+    true
+sample_gen_eval:
+    true
+per_device_gen_eval_batch_size:
+    32
+n_sample_gen_eval:
+    2000

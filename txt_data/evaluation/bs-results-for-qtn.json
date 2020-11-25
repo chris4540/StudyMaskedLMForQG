@@ -1,0 +1,692 @@
+{
+ "5733bf84d058e614000b61bf": {
+  "fact": {
+   "context": "As at most other universities, Notre Dame's students run a number of news media outlets. The nine student-run outlets include three newspapers, both a radio and television station, and several magazines and journals. Begun as a one-page journal in September 1876, the Scholastic magazine is issued twice monthly and claims to be the oldest continuous collegiate publication in the United States. The other magazine, The Juggler, is released [HL]twice[HL] a year and focuses on student literature and artwork. The Dome yearbook is published annually. The newspapers have varying publication interests, with The Observer published daily and mainly reporting university and other news, and staffed by students from both Notre Dame and Saint Mary's College. Unlike Scholastic and The Dome, The Observer is an independent publication and does not have a faculty advisor or any editorial oversight from the University. In 1987, when some students believed that The Observer began to show a conservative bias, a liberal newspaper, Common Sense was published. Likewise, in 2003, when other students believed that the paper showed a liberal bias, the conservative paper Irish Rover went into production. Neither paper is published as often as The Observer; however, all three are distributed to all students. Finally, in Spring 2008 an undergraduate journal for political science research, Beyond Politics, made its debut.",
+   "title": "University_of_Notre_Dame",
+   "question": "How often is Notre Dame's the Juggler published?",
+   "answer_text": "twice"
+  },
+  "hlsqg_casual": {
+   "reference": "how often is notre dame's the juggler published?",
+   "hypothesis": "how many times is the juggler published each year at notre",
+   "score": -0.18733957608540852
+  },
+  "u-PMLM_casual": {
+   "reference": "how often is notre dame's the juggler published?",
+   "hypothesis": "how many times a year is the other magazine, the juggler, released each year?",
+   "score": -0.2782304816775852
+  },
+  "u-PMLM_random": {
+   "reference": "how often is notre dame's the juggler published?",
+   "hypothesis": "how many times is the juggle student's magazine, the observer released each year?",
+   "score": -0.47809632619222003
+  }
+ },
+ "56ddf1189a695914005b96fe": {
+  "fact": {
+   "context": "In the first years of the Republic, controversy arose within the Reformed Church, mainly around the subject of predestination. This has become known as the struggle between Arminianism and Gomarism, or between Remonstrants and Contra-Remonstrants. In 1618 [HL]the Synod of Dort[HL] tackled this issue, which led to the banning of the Remonstrant faith.",
+   "title": "Dutch_Republic",
+   "question": "What led to the banning of the Remonstrant faith in 1618?",
+   "answer_text": "the Synod of Dort"
+  },
+  "hlsqg_casual": {
+   "reference": "what led to the banning of the remonstrant faith in 1618?",
+   "hypothesis": "what group banned the remonstrant faith in 1618?",
+   "score": -0.18412766456604004
+  },
+  "u-PMLM_casual": {
+   "reference": "what led to the banning of the remonstrant faith in 1618?",
+   "hypothesis": "what synod banned the remonstrants in 1618?",
+   "score": -0.42347600243308325
+  },
+  "u-PMLM_random": {
+   "reference": "what led to the banning of the remonstrant faith in 1618?",
+   "hypothesis": "what decided the banning of remonstrants led to",
+   "score": -0.4729982722889293
+  }
+ },
+ "56e4cced8c00841900fbafed": {
+  "fact": {
+   "context": "Beginning in the late 1950s and 1960s, architectural phenomenology emerged as an important movement in the early reaction against modernism, with architects like Charles Moore in the USA, Christian Norberg-Schulz in Norway, and Ernesto Nathan Rogers and Vittorio Gregotti in Italy, who collectively popularized an interest in a new contemporary architecture aimed at expanding [HL]human experience[HL] using historical buildings as models and precedents. Postmodernism produced a style that combined contemporary building technology and cheap materials, with the aesthetics of older pre-modern and non-modern styles, from high classical architecture to popular or vernacular regional building styles. Robert Venturi famously defined postmodern architecture as a \"decorated shed\" (an ordinary building which is functionally designed inside and embellished on the outside), and upheld it against modernist and brutalist \"ducks\" (buildings with unnecessarily expressive tectonic forms).",
+   "title": "Architecture",
+   "question": "What were the architectural phenomenologists hoping to expand?",
+   "answer_text": "human experience"
+  },
+  "hlsqg_casual": {
+   "reference": "what were the architectural phenomenologists hoping to expand?",
+   "hypothesis": "what was the focus of the new contemporary architecture movement in the",
+   "score": -0.3844997088114421
+  },
+  "u-PMLM_casual": {
+   "reference": "what were the architectural phenomenologists hoping to expand?",
+   "hypothesis": "what was the main focus of modernism in expanding?",
+   "score": -0.6106107711791993
+  },
+  "u-PMLM_random": {
+   "reference": "what were the architectural phenomenologists hoping to expand?",
+   "hypothesis": "what was the aim of contemporary architecture at expanding?",
+   "score": -0.6640479087829589
+  }
+ },
+ "56d4d4b82ccc5a1400d8327f": {
+  "fact": {
+   "context": "Dogs are highly variable in height and weight. The smallest known adult dog was a Yorkshire Terrier, that stood only 6.3 cm (2.5 in) at the shoulder, 9.5 cm (3.7 in) in length along the head-and-body, and weighed only 113 grams (4.0 oz). The largest known dog was an [HL]English Mastiff[HL] which weighed 155.6 kg (343 lb) and was 250 cm (98 in) from the snout to the tail. The tallest dog is a Great Dane that stands 106.7 cm (42.0 in) at the shoulder.",
+   "title": "Dog",
+   "question": "What breed was the largest dog known to have lived?",
+   "answer_text": "English Mastiff"
+  },
+  "hlsqg_casual": {
+   "reference": "what breed was the largest dog known to have lived?",
+   "hypothesis": "what was the largest known dog in the british isles?",
+   "score": -0.1667905648549398
+  },
+  "u-PMLM_casual": {
+   "reference": "what breed was the largest dog known to have lived?",
+   "hypothesis": "what was the largest known dog dog?",
+   "score": -0.455625057220459
+  },
+  "u-PMLM_random": {
+   "reference": "what breed was the largest dog known to have lived?",
+   "hypothesis": "what was the largest known dog dog?",
+   "score": -0.5010648965835571
+  }
+ },
+ "56ce75d4aab44d1400b887be": {
+  "fact": {
+   "context": "Though the iPod was released in 2001, its price and Mac-only compatibility caused sales to be relatively slow until 2004. The iPod line came from Apple's \"digital hub\" category, when the company began creating software for the growing market of personal digital devices. Digital cameras, camcorders and organizers had well-established mainstream markets, but the company found existing digital music players \"big and clunky or small and useless\" with user interfaces that were \"unbelievably awful,\" so Apple decided to develop its own. As ordered by CEO Steve Jobs, Apple's hardware engineering chief Jon Rubinstein assembled a team of engineers to design the iPod line, including hardware engineers Tony Fadell and Michael Dhuey, and design engineer Sir Jonathan Ive. Rubinstein had already discovered the Toshiba disk drive when meeting with an Apple supplier in Japan, and purchased the rights to it for Apple, and had also already worked out how the screen, battery, and other key elements would work. The aesthetic was inspired by the 1958 Braun T3 transistor radio designed by Dieter Rams, while the wheel based user interface was prompted by Bang & Olufsen's BeoCom 6000 telephone. The product (\"the Walkman of the twenty-first century\" ) was developed in less than one year and unveiled on October 23, 2001. Jobs announced it as a Mac-compatible product with a [HL]5 GB[HL] hard drive that put \"1,000 songs in your pocket.\"",
+   "title": "IPod",
+   "question": "How large was the hard drive on the original iPod?",
+   "answer_text": "5 GB"
+  },
+  "hlsqg_casual": {
+   "reference": "how large was the hard drive on the original ipod?",
+   "hypothesis": "how much hard drive did apple have that put \" 1, 000 songs in your pocket \" in 2001",
+   "score": -0.30606390635172526
+  },
+  "u-PMLM_casual": {
+   "reference": "how large was the hard drive on the original ipod?",
+   "hypothesis": "how big was it?",
+   "score": -0.3544576168060303
+  },
+  "u-PMLM_random": {
+   "reference": "how large was the hard drive on the original ipod?",
+   "hypothesis": "how big was drive?",
+   "score": -0.45045108795166017
+  }
+ },
+ "5734275c4776f41900661991": {
+  "fact": {
+   "context": "Traditional architecture is distinctive and include the Manueline, also known as [HL]Portuguese late Gothic[HL], a sumptuous, composite Portuguese style of architectural ornamentation of the first decades of the 16th century. A 20th-century interpretation of traditional architecture, Soft Portuguese style, appears extensively in major cities, especially Lisbon. Modern Portugal has given the world renowned architects like Eduardo Souto de Moura, Álvaro Siza Vieira (both Pritzker Prize winners) and Gonçalo Byrne. In Portugal Tomás Taveira is also noteworthy, particularly for stadium design.",
+   "title": "Portugal",
+   "question": "What is the Manueline style also known as?",
+   "answer_text": "Portuguese late Gothic"
+  },
+  "hlsqg_casual": {
+   "reference": "what is the manueline style also known as?",
+   "hypothesis": "what is the manueline also known as?",
+   "score": -0.12952563497755262
+  },
+  "u-PMLM_casual": {
+   "reference": "what is the manueline style also known as?",
+   "hypothesis": "what is the name for the manueline's traditional style of architecture ornamentation?",
+   "score": -0.4309558603498671
+  },
+  "u-PMLM_random": {
+   "reference": "what is the manueline style also known as?",
+   "hypothesis": "what is another name for the typifies style of traditional architecture as used by manueline",
+   "score": -0.7877602047390408
+  }
+ },
+ "57332ba74776f41900660732": {
+  "fact": {
+   "context": "The collateralized debt obligation in particular enabled financial institutions to obtain investor funds to finance subprime and other lending, extending or increasing the housing bubble and generating large fees. This essentially places cash payments from multiple mortgages or other debt obligations into a single pool from which specific securities draw in a specific sequence of priority. Those securities first in line received [HL]investment-grade ratings[HL] from rating agencies. Securities with lower priority had lower credit ratings but theoretically a higher rate of return on the amount invested.",
+   "title": "Financial_crisis_of_2007%E2%80%9308",
+   "question": "What type ratings did securities first in line receive from rating agencies?",
+   "answer_text": "investment-grade ratings"
+  },
+  "hlsqg_casual": {
+   "reference": "what type ratings did securities first in line receive from rating agencies?",
+   "hypothesis": "what did securities first in line receive from rating agencies?",
+   "score": -0.2137791243466464
+  },
+  "u-PMLM_casual": {
+   "reference": "what type ratings did securities first in line receive from rating agencies?",
+   "hypothesis": "what ratings did securities that were first in line receive from rating agencies?",
+   "score": -0.49901771545410156
+  },
+  "u-PMLM_random": {
+   "reference": "what type ratings did securities first in line receive from rating agencies?",
+   "hypothesis": "what ratings were the securities first in the market receive from rating agencies in",
+   "score": -0.5279418740953717
+  }
+ },
+ "56d074ff234ae51400d9c2ef": {
+  "fact": {
+   "context": "Commercial CSP plants were first developed in the 1980s. Since 1985 the eventually 354 MW SEGS CSP installation, in the [HL]Mojave Desert of California[HL], is the largest solar power plant in the world. Other large CSP plants include the 150 MW Solnova Solar Power Station and the 100 MW Andasol solar power station, both in Spain. The 250 MW Agua Caliente Solar Project, in the United States, and the 221 MW Charanka Solar Park in India, are the world’s largest photovoltaic plants. Solar projects exceeding 1 GW are being developed, but most of the deployed photovoltaics are in small rooftop arrays of less than 5 kW, which are grid connected using net metering and/or a feed-in tariff. In 2013 solar generated less than 1% of the worlds total grid electricity.",
+   "title": "Solar_energy",
+   "question": "Where is the largest solar power plant in the world located?",
+   "answer_text": "Mojave Desert of California"
+  },
+  "hlsqg_casual": {
+   "reference": "where is the largest solar power plant in the world located?",
+   "hypothesis": "where is the largest solar power plant in the world?",
+   "score": -0.13054214824329724
+  },
+  "u-PMLM_casual": {
+   "reference": "where is the largest solar power plant in the world located?",
+   "hypothesis": "where is the largest solar power plant in the world?",
+   "score": -0.14218562299555
+  },
+  "u-PMLM_random": {
+   "reference": "where is the largest solar power plant in the world located?",
+   "hypothesis": "where is the segs csp plant located in?",
+   "score": -0.4387842525135387
+  }
+ },
+ "573353674776f4190066083e": {
+  "fact": {
+   "context": "Tajikistan (i/tɑːˈdʒiːkᵻstɑːn/, /təˈdʒiːkᵻstæn/, or /tæˈdʒiːkiːstæn/; Persian: تاجيكستان‎‎ Тоҷикистон [tɔd͡ʒikɪsˈtɔn]), officially the Republic of Tajikistan (Persian: جمهورى تاجيكستان‎‎ Tajik: Ҷумҳурии Тоҷикистон, Çumhuriji Toçikiston/Jumhuriyi Tojikiston; Russian: Респу́блика Таджикистан, Respublika Tadzhikistan), is a mountainous, landlocked country in Central Asia with an estimated 8 million people in 2013, and an [HL]area of 143,100 km2 (55,300 sq mi)[HL]. It is bordered by Afghanistan to the south, Uzbekistan to the west, Kyrgyzstan to the north, and China to the east. Pakistan lies to the south, separated by the narrow Wakhan Corridor. Traditional homelands of Tajik people included present-day Tajikistan, Afghanistan and Uzbekistan.",
+   "title": "Tajikistan",
+   "question": "What is the area of Tajikistan?",
+   "answer_text": "area of 143,100 km2 (55,300 sq mi)"
+  },
+  "hlsqg_casual": {
+   "reference": "what is the area of tajikistan?",
+   "hypothesis": "what is tajikistan's total area?",
+   "score": -0.13849522272745768
+  },
+  "u-PMLM_casual": {
+   "reference": "what is the area of tajikistan?",
+   "hypothesis": "what is the size of the land mass of tajikistan?",
+   "score": -0.21158415620977228
+  },
+  "u-PMLM_random": {
+   "reference": "what is the area of tajikistan?",
+   "hypothesis": "what is the geographic size of the country of tajikistan?",
+   "score": -0.5690255598588423
+  }
+ },
+ "573386274776f41900660c94": {
+  "fact": {
+   "context": "In fact, process theology is difficult to define because process theologians are so diverse and transdisciplinary in their views and interests. John B. Cobb, Jr. is a process theologian who has also written books on biology and economics. Roland Faber and Catherine Keller integrate Whitehead with poststructuralist, postcolonialist, and feminist theory. Charles Birch was both a theologian and a [HL]geneticist[HL]. Franklin I. Gamwell writes on theology and political theory. In Syntheism - Creating God in The Internet Age, futurologists Alexander Bard and Jan Söderqvist repeatedly credit Whitehead for the process theology they see rising out of the participatory culture expected to dominate the digital era.",
+   "title": "Alfred_North_Whitehead",
+   "question": "What was Charles Birch's profession besides theologian?",
+   "answer_text": "geneticist"
+  },
+  "hlsqg_casual": {
+   "reference": "what was charles birch's profession besides theologian?",
+   "hypothesis": "what was charles birch's occupation?",
+   "score": -0.22048310935497284
+  },
+  "u-PMLM_casual": {
+   "reference": "what was charles birch's profession besides theologian?",
+   "hypothesis": "along with being a theologian, what was charles birch's profession?",
+   "score": -0.33988986696515766
+  },
+  "u-PMLM_random": {
+   "reference": "what was charles birch's profession besides theologian?",
+   "hypothesis": "aside from being a theologian, what was charles birch's profession?",
+   "score": -0.4892941883632115
+  }
+ },
+ "56d1a35fe7d4791d00902085": {
+  "fact": {
+   "context": "The novel has been noted for its poignant exploration of different forms of courage. Scout's impulsive inclination to fight students who insult [HL]Atticus[HL] reflects her attempt to stand up for him and defend him. Atticus is the moral center of the novel, however, and he teaches Jem one of the most significant lessons of courage. In a statement that foreshadows Atticus' motivation for defending Tom Robinson and describes Mrs. Dubose, who is determined to break herself of a morphine addiction, Atticus tells Jem that courage is \"when you're licked before you begin but you begin anyway and you see it through no matter what\".",
+   "title": "To_Kill_a_Mockingbird",
+   "question": "Who is the moral center of the novel?",
+   "answer_text": "Atticus"
+  },
+  "hlsqg_casual": {
+   "reference": "who is the moral center of the novel?",
+   "hypothesis": "who is the moral center of the novel?",
+   "score": -0.37803856531778973
+  },
+  "u-PMLM_casual": {
+   "reference": "who is the moral center of the novel?",
+   "hypothesis": "who does students try to kill scout?",
+   "score": -0.9628642201423645
+  },
+  "u-PMLM_random": {
+   "reference": "who is the moral center of the novel?",
+   "hypothesis": "who do the students throws at scout '",
+   "score": -0.8129327893257141
+  }
+ },
+ "56db0f17e7c41114004b4cea": {
+  "fact": {
+   "context": "\n France: The torch relay leg in Paris, held on April 7, began on the first level of the Eiffel Tower and finished at the Stade Charléty. The relay was initially supposed to cover 28 km, but it was shortened at the demand of Chinese officials following widespread protests by pro-Tibet and human rights activists, who repeatedly attempted to disrupt, hinder or halt the procession. A scheduled ceremony at the town hall was cancelled at the request of the Chinese authorities, and, also at the request of Chinese authorities, the torch finished the relay by bus instead of being carried by athletes. Paris City officials had announced plans to greet the Olympic flame with peaceful protest when the torch was to reach the French capital. The city government attached a banner reading \"Paris defends human rights throughout the world\" to the City Hall, in an attempt to promote values \"of all humanity and of human rights.\" Members from Reporters Without Borders turned out in large numbers to protest. An estimated [HL]3,000[HL] French police protected the Olympic torch relay as it departed from the Eiffel Tower and criss-crossed Paris amid threat of protests. Widespread pro-Tibet protests, including an attempt by more than one demonstrator to extinguish the flame with water or fire extinguishers, prompted relay authorities to put out the flame five times (according to the police authorities in Paris) and load the torch onto a bus, at the demand of Chinese officials. This was later denied by the Chinese Ministry of Foreign Affairs, despite video footage broadcast by French television network France 2 which showed Chinese flame attendants extinguishing the torch. Backup flames are with the relay at all times to relight the torch. French judoka and torchbearer David Douillet expressed his annoyance at the Chinese flame attendants who extinguished the torch which he was about to hand over to Teddy Riner: \"I understand they're afraid of everything, but this is just annoying. They extinguished the flame despite the fact that there was no risk, and they could see it and they knew it. I don't know why they did it.\"",
+   "title": "2008_Summer_Olympics_torch_relay",
+   "question": "About how many police were said to have protected the torch in France?",
+   "answer_text": "3,000"
+  },
+  "hlsqg_casual": {
+   "reference": "about how many police were said to have protected the torch in france?",
+   "hypothesis": "how many french police defended the olympic torch relay as it departed from the eiffel tower and criss - crossed paris?",
+   "score": -0.3363597551981608
+  },
+  "u-PMLM_casual": {
+   "reference": "about how many police were said to have protected the torch in france?",
+   "hypothesis": "how many french police protected the relay?",
+   "score": -0.3381017744541168
+  },
+  "u-PMLM_random": {
+   "reference": "about how many police were said to have protected the torch in france?",
+   "hypothesis": "how many french police protected the olympic relay",
+   "score": -0.31076112389564514
+  }
+ },
+ "56db1df1e7c41114004b4d7f": {
+  "fact": {
+   "context": "French members of [HL]Parliament[HL] and other French politicians also organised a protest. All political parties in Parliament—UMP, Socialists, New Centre, Communists, Democratic Movement (centre) and Greens—jointly requested a pause in the National Assembly's session, which was granted, so that MPs could step outside and unfurl a banner which read \"Respect for Human Rights in China\". The coach containing the torch drove past the National Assembly and the assembled protesting MPs, who shouted \"Freedom for Tibet!\" several times as it passed.",
+   "title": "2008_Summer_Olympics_torch_relay",
+   "question": "Various French politicians started protests including members of what?",
+   "answer_text": "Parliament"
+  },
+  "hlsqg_casual": {
+   "reference": "various french politicians started protests including members of what?",
+   "hypothesis": "french politicians from what body organized a protest to protest",
+   "score": -0.31047484079996746
+  },
+  "u-PMLM_casual": {
+   "reference": "various french politicians started protests including members of what?",
+   "hypothesis": "french members of what french government also organized a protest?",
+   "score": -0.4607558250427246
+  },
+  "u-PMLM_random": {
+   "reference": "various french politicians started protests including members of what?",
+   "hypothesis": "french members of what french government also organized a protest?",
+   "score": -0.5300317244096235
+  }
+ },
+ "573342a9d058e614000b57f4": {
+  "fact": {
+   "context": "Prior to the crisis, financial institutions became highly leveraged, increasing their appetite for risky investments and reducing their resilience in case of losses. Much of this leverage was achieved using [HL]complex financial instruments[HL] such as off-balance sheet securitization and derivatives, which made it difficult for creditors and regulators to monitor and try to reduce financial institution risk levels. These instruments also made it virtually impossible to reorganize financial institutions in bankruptcy, and contributed to the need for government bailouts.",
+   "title": "Financial_crisis_of_2007%E2%80%9308",
+   "question": "What are the type financial instruments that were difficult for creditors and regulators to monitor?",
+   "answer_text": "complex financial instruments"
+  },
+  "hlsqg_casual": {
+   "reference": "what are the type financial instruments that were difficult for creditors and regulators to monitor?",
+   "hypothesis": "what made it difficult for creditors and regulators to monitor and try to reduce the financial institution risk levels?",
+   "score": -0.32962233225504556
+  },
+  "u-PMLM_casual": {
+   "reference": "what are the type financial instruments that were difficult for creditors and regulators to monitor?",
+   "hypothesis": "what is used to leverage the leverage of off - balance sheet securitization?",
+   "score": -0.7161134832045611
+  },
+  "u-PMLM_random": {
+   "reference": "what are the type financial instruments that were difficult for creditors and regulators to monitor?",
+   "hypothesis": "what type of leverage resulted from off - balance sheet securitization and derivatives?",
+   "score": -0.3055308566373937
+  }
+ },
+ "56daece1e7c41114004b4b2a": {
+  "fact": {
+   "context": "The success of American Idol has been described as \"unparalleled in broadcasting history\". The series was also said by [HL]a rival TV executive[HL] to be \"the most impactful show in the history of television\". It has become a recognized springboard for launching the career of many artists as bona fide stars. According to Billboard magazine, in its first ten years, \"Idol has spawned 345 Billboard chart-toppers and a platoon of pop idols, including Kelly Clarkson, Carrie Underwood, Chris Daughtry, Fantasia, Ruben Studdard, Jennifer Hudson, Clay Aiken, Adam Lambert and Jordin Sparks while remaining a TV ratings juggernaut.\"",
+   "title": "American_Idol",
+   "question": "Who said that American Idol is \"the most impactful show in the history of televsion?",
+   "answer_text": "a rival TV executive"
+  },
+  "hlsqg_casual": {
+   "reference": "who said that american idol is \" the most impactful show in the history of televsion?",
+   "hypothesis": "who said american idol was the most impactful show in the history of television?",
+   "score": -0.19600804150104523
+  },
+  "u-PMLM_casual": {
+   "reference": "who said that american idol is \" the most impactful show in the history of televsion?",
+   "hypothesis": "who said that american idol was the most impactful on tv history?",
+   "score": -0.3602218287331717
+  },
+  "u-PMLM_random": {
+   "reference": "who said that american idol is \" the most impactful show in the history of televsion?",
+   "hypothesis": "who said american idol was the most impact the history of television \"?",
+   "score": -0.48843441690717426
+  }
+ },
+ "56cf3eabaab44d1400b88edb": {
+  "fact": {
+   "context": "Further references to Fleming's material can be found throughout the film; an MI6 safehouse is called \"Hildebrand Rarities and Antiques\", a reference to the short story \"The Hildebrand Rarity\" from the For Your Eyes Only short story collection.[citation needed] Bond's torture by [HL]Blofeld[HL] mirrors his torture by the title character of Kingsley Amis' continuation novel Colonel Sun.[citation needed]",
+   "title": "Spectre_(2015_film)",
+   "question": "Which character tortures Bond?",
+   "answer_text": "Blofeld"
+  },
+  "hlsqg_casual": {
+   "reference": "which character tortures bond?",
+   "hypothesis": "who wrote bond's torture??",
+   "score": -0.4073436419169108
+  },
+  "u-PMLM_casual": {
+   "reference": "which character tortures bond?",
+   "hypothesis": "who was used as bond's torture?",
+   "score": -0.9687783983018663
+  },
+  "u-PMLM_random": {
+   "reference": "which character tortures bond?",
+   "hypothesis": "who is the character of bond's?",
+   "score": -1.1944784588283963
+  }
+ },
+ "56beb9203aeaaa14008c92d5": {
+  "fact": {
+   "context": "In 2001, she became the first African-American woman and second woman songwriter to win the Pop Songwriter of the Year award at the American Society of Composers, Authors, and Publishers Pop Music Awards. Beyoncé was the third woman to have writing credits on three number one songs (\"Irreplaceable\", \"Grillz\" and \"Check on It\") in the same year, after Carole King in 1971 and Mariah Carey in 1991. She is tied with American songwriter Diane Warren at third with nine songwriting credits on number-one singles. (The latter wrote her 9/11-motivated song \"I Was Here\" for 4.) In May 2011, Billboard magazine listed Beyoncé at number 17 on their list of the \"[HL]Top 20 Hot 100 Songwriters[HL]\", for having co-written eight singles that hit number one on the Billboard Hot 100 chart. She was one of only three women on that list.",
+   "title": "Beyoncé",
+   "question": "Beyonce joined 2 other women on what list from Billboard magazine in 2011?",
+   "answer_text": "Top 20 Hot 100 Songwriters"
+  },
+  "hlsqg_casual": {
+   "reference": "beyonce joined 2 other women on what list from billboard magazine in 2011?",
+   "hypothesis": "what did billboard magazine list as a number 17 artist in may 2011?",
+   "score": -0.37206815083821615
+  },
+  "u-PMLM_casual": {
+   "reference": "beyonce joined 2 other women on what list from billboard magazine in 2011?",
+   "hypothesis": "in may 2011, billboard magazine listed beyonce at which number of songwriter?",
+   "score": -0.5774427141462054
+  },
+  "u-PMLM_random": {
+   "reference": "beyonce joined 2 other women on what list from billboard magazine in 2011?",
+   "hypothesis": "by billboard magazine, who ranked beyonce at number 17 in may 2011,",
+   "score": -0.7243949345179966
+  }
+ },
+ "56d3733e59d6e41400146413": {
+  "fact": {
+   "context": "Much media attention on the season had been focused on the three black singers, Fantasia Barrino, LaToya London, and Jennifer Hudson, dubbed the Three Divas. All three unexpectedly landed on the bottom three on the top seven result show, with Hudson controversially eliminated. [HL]Elton John[HL], who was one of the mentors that season, called the results of the votes \"incredibly racist\". The prolonged stays of John Stevens and Jasmine Trias in the finals, despite negative comments from the judges, had aroused resentment, so much so that John Stevens reportedly received a death threat, which he dismissed as a joke 'blown out of proportion'.",
+   "title": "American_Idol",
+   "question": "What famous singer made claims of racism after Jennifer Hudson was eliminated from American Idol?",
+   "answer_text": "Elton John"
+  },
+  "hlsqg_casual": {
+   "reference": "what famous singer made claims of racism after jennifer hudson was eliminated from american idol?",
+   "hypothesis": "who was one of the mentors in the final season?",
+   "score": -0.5214542547861735
+  },
+  "u-PMLM_casual": {
+   "reference": "what famous singer made claims of racism after jennifer hudson was eliminated from american idol?",
+   "hypothesis": "which artist called the results of the idol votes \" incredibly racist \"?",
+   "score": -0.5037924902779716
+  },
+  "u-PMLM_random": {
+   "reference": "what famous singer made claims of racism after jennifer hudson was eliminated from american idol?",
+   "hypothesis": "which artist called the judges opinion of the votes \" incredibly racist \"?",
+   "score": -0.7716246332441058
+  }
+ },
+ "56d3913859d6e41400146796": {
+  "fact": {
+   "context": "Some of Chopin's well-known pieces have acquired descriptive titles, such as the Revolutionary Étude (Op. 10, No. 12), and the [HL]Minute Waltz[HL] (Op. 64, No. 1). However, with the exception of his Funeral March, the composer never named an instrumental work beyond genre and number, leaving all potential extramusical associations to the listener; the names by which many of his pieces are known were invented by others. There is no evidence to suggest that the Revolutionary Étude was written with the failed Polish uprising against Russia in mind; it merely appeared at that time. The Funeral March, the third movement of his Sonata No. 2 (Op. 35), the one case where he did give a title, was written before the rest of the sonata, but no specific event or death is known to have inspired it.",
+   "title": "Frédéric_Chopin",
+   "question": "What descriptive name was Op. 64, No. 1 given?",
+   "answer_text": "Minute Waltz"
+  },
+  "hlsqg_casual": {
+   "reference": "what descriptive name was op. 64, no. 1 given?",
+   "hypothesis": "what is the name of one of chopin's well - known pieces that is",
+   "score": -0.4081766128540039
+  },
+  "u-PMLM_casual": {
+   "reference": "what descriptive name was op. 64, no. 1 given?",
+   "hypothesis": "which of chopin's well - known pieces has acquired descriptive title?",
+   "score": -0.41214615958077566
+  },
+  "u-PMLM_random": {
+   "reference": "what descriptive name was op. 64, no. 1 given?",
+   "hypothesis": "which of of chopin's well known pieces has acquired descriptive title?",
+   "score": -0.4056776932307652
+  }
+ },
+ "56debd5a3277331400b4d6fd": {
+  "fact": {
+   "context": "As soon as Schwarzenegger was elected governor, [HL]Willie Brown[HL] said he would start a drive to recall the governor. Schwarzenegger was equally entrenched in what he considered to be his mandate in cleaning up gridlock. Building on a catchphrase from the sketch \"Hans and Franz\" from Saturday Night Live (which partly parodied his bodybuilding career), Schwarzenegger called the Democratic State politicians \"girlie men\".",
+   "title": "Arnold_Schwarzenegger",
+   "question": "What politician threatened to start working to recall Schwarzenegger right after he was elected?",
+   "answer_text": "Willie Brown"
+  },
+  "hlsqg_casual": {
+   "reference": "what politician threatened to start working to recall schwarzenegger right after he was elected?",
+   "hypothesis": "who said he would start a drive to recall the governor?",
+   "score": -0.2513345281283061
+  },
+  "u-PMLM_casual": {
+   "reference": "what politician threatened to start working to recall schwarzenegger right after he was elected?",
+   "hypothesis": "who was the first to recall the governor?",
+   "score": -0.6065321498446994
+  },
+  "u-PMLM_random": {
+   "reference": "what politician threatened to start working to recall schwarzenegger right after he was elected?",
+   "hypothesis": "who said that schwarzenegger was governor?",
+   "score": -0.5866100523206923
+  }
+ },
+ "56be88473aeaaa14008c9083": {
+  "fact": {
+   "context": "A self-described \"modern-day feminist\", Beyoncé creates songs that are often characterized by themes of love, relationships, and monogamy, as well as female sexuality and empowerment. On stage, her dynamic, highly choreographed performances have led to critics hailing her as one of the best entertainers in contemporary popular music. Throughout a career spanning 19 years, she has sold over 118 million records as a solo artist, and a further 60 million with Destiny's Child, making her one of the best-selling music artists of all time. She has won 20 Grammy Awards and is the most nominated woman in the award's history. The Recording Industry Association of America recognized her as the Top Certified Artist in America during the 2000s decade. In 2009, Billboard named her the Top Radio Songs Artist of the Decade, the Top Female Artist of the 2000s and their Artist of the Millennium in 2011. Time listed her among the 100 most [HL]influential[HL] people in the world in 2013 and 2014. Forbes magazine also listed her as the most powerful female musician of 2015.",
+   "title": "Beyoncé",
+   "question": "Time magazine named her one of the most 100 what people of the century?",
+   "answer_text": "influential"
+  },
+  "hlsqg_casual": {
+   "reference": "time magazine named her one of the most 100 what people of the century?",
+   "hypothesis": "how did time rank her as one of the 100 most influential people in the world in 2013 and 2014?",
+   "score": -0.3671592530750093
+  },
+  "u-PMLM_casual": {
+   "reference": "time magazine named her one of the most 100 what people of the century?",
+   "hypothesis": "time listed her as one of the 100 most powerful people in the world in what way?",
+   "score": -0.5279440350002713
+  },
+  "u-PMLM_random": {
+   "reference": "time magazine named her one of the most 100 what people of the century?",
+   "hypothesis": "in 2013 2014, time stated as she was one of the 100 most who in the world",
+   "score": -0.7588302824232314
+  }
+ },
+ "56cf3934aab44d1400b88ea8": {
+  "fact": {
+   "context": "Christianity (59%), particularly Catholicism (33%), was the most prevalently practiced religion in New York as of 2014, followed by Judaism, with approximately [HL]1.1 million[HL] Jews in New York City, over half living in Brooklyn. Islam ranks third in New York City, with official estimates ranging between 600,000 and 1,000,000 observers and including 10% of the city's public schoolchildren, followed by Hinduism, Buddhism, and a variety of other religions, as well as atheism. In 2014, 24% self-identified with no organized religious affiliation.",
+   "title": "New_York_City",
+   "question": "About how many Jews live in New York City?",
+   "answer_text": "1.1 million"
+  },
+  "hlsqg_casual": {
+   "reference": "about how many jews live in new york city?",
+   "hypothesis": "how many jews are there in the city of new york city?",
+   "score": -0.18897795677185059
+  },
+  "u-PMLM_casual": {
+   "reference": "about how many jews live in new york city?",
+   "hypothesis": "how many jews live in new york?",
+   "score": -0.26403892040252686
+  },
+  "u-PMLM_random": {
+   "reference": "about how many jews live in new york city?",
+   "hypothesis": "how many jews are there in new york",
+   "score": -0.39033883810043335
+  }
+ },
+ "57335ed14776f419006608d8": {
+  "fact": {
+   "context": "Feminist economists Ailsa McKay and Margunn Bjørnholt argue that the financial crisis and the response to it revealed a crisis of ideas in mainstream economics and within the economics profession, and call for [HL]a reshaping[HL] of both the economy, economic theory and the economics profession. They argue that such a reshaping should include new advances within feminist economics and ecological economics that take as their starting point the socially responsible, sensible and accountable subject in creating an economy and economic theories that fully acknowledge care for each other as well as the planet.",
+   "title": "Financial_crisis_of_2007%E2%80%9308",
+   "question": "What do economists McKay and Bjornholt want to occur in the economy, economic theory, and economics profession?",
+   "answer_text": "a reshaping"
+  },
+  "hlsqg_casual": {
+   "reference": "what do economists mckay and bjornholt want to occur in the economy, economic theory, and economics profession?",
+   "hypothesis": "what did bjørnholt call for in regards to economics",
+   "score": -0.28792057037353513
+  },
+  "u-PMLM_casual": {
+   "reference": "what do economists mckay and bjornholt want to occur in the economy, economic theory, and economics profession?",
+   "hypothesis": "what do feminist economists and margunn bjørnholt call for?",
+   "score": -0.325988068300135
+  },
+  "u-PMLM_random": {
+   "reference": "what do economists mckay and bjornholt want to occur in the economy, economic theory, and economics profession?",
+   "hypothesis": "what do feminist economists call for when addressing the economic theory, economy and the economics profession",
+   "score": -0.5809687446145451
+  }
+ },
+ "5733c6b3d058e614000b6224": {
+  "fact": {
+   "context": "Media anthropology (also known as anthropology of media or mass media) emphasizes ethnographic studies as a means of understanding producers, audiences, and other cultural and social aspects of mass media. The types of [HL]ethnographic[HL] contexts explored range from contexts of media production (e.g., ethnographies of newsrooms in newspapers, journalists in the field, film production) to contexts of media reception, following audiences in their everyday responses to media. Other types include cyber anthropology, a relatively new area of internet research, as well as ethnographies of other areas of research which happen to involve media, such as development work, social movements, or health education. This is in addition to many classic ethnographic contexts, where media such as radio, the press, new media and television have started to make their presences felt since the early 1990s.",
+   "title": "Anthropology",
+   "question": "Media production and media reception are examples of what type of context?",
+   "answer_text": "ethnographic"
+  },
+  "hlsqg_casual": {
+   "reference": "media production and media reception are examples of what type of context?",
+   "hypothesis": "what is the type of contexts explored by media anthropology??",
+   "score": -0.5424437840779622
+  },
+  "u-PMLM_casual": {
+   "reference": "media production and media reception are examples of what type of context?",
+   "hypothesis": "what type of contexts are explored in the context of media production, media and cultural anthropology?",
+   "score": -0.801362567477756
+  },
+  "u-PMLM_random": {
+   "reference": "media production and media reception are examples of what type of context?",
+   "hypothesis": "what type of contexts is ranged from contexts to contexts of media production and media reception?",
+   "score": -0.7633823818630643
+  }
+ },
+ "56cc88a56d243a140015f006": {
+  "fact": {
+   "context": "The iTunes Store (introduced [HL]April 29, 2003[HL]) is an online media store run by Apple and accessed through iTunes. The store became the market leader soon after its launch and Apple announced the sale of videos through the store on October 12, 2005. Full-length movies became available on September 12, 2006.",
+   "title": "IPod",
+   "question": "When was the Apple iTunes Store launched?",
+   "answer_text": "April 29, 2003"
+  },
+  "hlsqg_casual": {
+   "reference": "when was the apple itunes store launched?",
+   "hypothesis": "when was the itunes store introduced?",
+   "score": -0.16447693961007254
+  },
+  "u-PMLM_casual": {
+   "reference": "when was the apple itunes store launched?",
+   "hypothesis": "when was itunes introduced?",
+   "score": -0.15909099578857422
+  },
+  "u-PMLM_random": {
+   "reference": "when was the apple itunes store launched?",
+   "hypothesis": "when was the first?",
+   "score": -0.3554385185241699
+  }
+ },
+ "56de3a30cffd8e1900b4b6a0": {
+  "fact": {
+   "context": "The period known as the Crusades, a series of religiously motivated military expeditions originally intended to bring the Levant back into Christian rule, began. Several Crusader states were founded in the eastern Mediterranean. These were all short-lived. The Crusaders would have a profound impact on many parts of Europe. Their Sack of Constantinople in 1204 brought an abrupt end to [HL]the Byzantine Empire[HL]. Though it would later be re-established, it would never recover its former glory. The Crusaders would establish trade routes that would develop into the Silk Road and open the way for the merchant republics of Genoa and Venice to become major economic powers. The Reconquista, a related movement, worked to reconquer Iberia for Christendom.",
+   "title": "Southern_Europe",
+   "question": "What empire was destroyed by the Sack of Constantinople?",
+   "answer_text": "the Byzantine Empire"
+  },
+  "hlsqg_casual": {
+   "reference": "what empire was destroyed by the sack of constantinople?",
+   "hypothesis": "the sack of constantinople brought an abrupt end to what empire?",
+   "score": -0.2990996638933818
+  },
+  "u-PMLM_casual": {
+   "reference": "what empire was destroyed by the sack of constantinople?",
+   "hypothesis": "the sack of constantinople brought the end to what?",
+   "score": -0.4319645404815674
+  },
+  "u-PMLM_random": {
+   "reference": "what empire was destroyed by the sack of constantinople?",
+   "hypothesis": "who suffered the sack of constantinople in 1204?",
+   "score": -0.35005013942718505
+  }
+ },
+ "56de62fc4396321400ee286d": {
+  "fact": {
+   "context": "Baird Television Ltd. made Britain's first television broadcast, on 30 September 1929 from its studio in Long Acre, London, via the BBC's London transmitter, using the electromechanical system pioneered by John Logie Baird. This system used a vertically-scanned image of 30 lines – just enough resolution for a close-up of one person, and with a bandwidth low enough to use existing radio transmitters. Simultaneous transmission of sound and picture was achieved on [HL]30 March 1930[HL], by using the BBC's new twin transmitter at Brookmans Park. By late 1930, 30 minutes of morning programmes were broadcast Monday to Friday, and 30 minutes at midnight on Tuesdays and Fridays, after BBC radio went off the air. Baird broadcasts via the BBC continued until June 1932.",
+   "title": "BBC_Television",
+   "question": "When were both audio and video first broadcasted at the same time?",
+   "answer_text": "30 March 1930"
+  },
+  "hlsqg_casual": {
+   "reference": "when were both audio and video first broadcasted at the same time?",
+   "hypothesis": "when was simultaneous transmission of sound and picture achieved?",
+   "score": -0.20340609550476074
+  },
+  "u-PMLM_casual": {
+   "reference": "when were both audio and video first broadcasted at the same time?",
+   "hypothesis": "when was simultaneous transmission of sound and picture?",
+   "score": -0.4555182456970215
+  },
+  "u-PMLM_random": {
+   "reference": "when were both audio and video first broadcasted at the same time?",
+   "hypothesis": "when was transmission of sound and picture achieved?",
+   "score": -0.4912520514594184
+  }
+ },
+ "57303233a23a5019007fcf5a": {
+  "fact": {
+   "context": "Whitehead did not begin his career as a philosopher. In fact, he never had any formal training in philosophy beyond his undergraduate education. Early in his life he showed great interest in and respect for philosophy and metaphysics, but it is evident that he considered himself a rank amateur. In one letter to his friend and former student Bertrand Russell, after discussing whether science aimed to be explanatory or merely descriptive, he wrote: \"This further question lands us in the ocean of metaphysic, onto which my profound ignorance of that science forbids me to enter.\" Ironically, in later life Whitehead would become [HL]one of the 20th century's foremost metaphysicians.[HL]",
+   "title": "Alfred_North_Whitehead",
+   "question": "What was Whitehead considered as a metaphysician?",
+   "answer_text": "one of the 20th century's foremost metaphysicians."
+  },
+  "hlsqg_casual": {
+   "reference": "what was whitehead considered as a metaphysician?",
+   "hypothesis": "what role did whitehead play in later life?",
+   "score": -0.1747430165608724
+  },
+  "u-PMLM_casual": {
+   "reference": "what was whitehead considered as a metaphysician?",
+   "hypothesis": "in later life, what position did whitehead sometimes hold?",
+   "score": -0.7441963715986772
+  },
+  "u-PMLM_random": {
+   "reference": "what was whitehead considered as a metaphysician?",
+   "hypothesis": "in later life, what did whitehead consider to be?",
+   "score": -0.8551763187755238
+  }
+ },
+ "56e472028c00841900fbaf8b": {
+  "fact": {
+   "context": "The 19th-century English art critic, [HL]John Ruskin[HL], in his Seven Lamps of Architecture, published 1849, was much narrower in his view of what constituted architecture. Architecture was the \"art which so disposes and adorns the edifices raised by men ... that the sight of them\" contributes \"to his mental health, power, and pleasure\".",
+   "title": "Architecture",
+   "question": "Who was the author of Seven Lamps of Architecture?",
+   "answer_text": "John Ruskin"
+  },
+  "hlsqg_casual": {
+   "reference": "who was the author of seven lamps of architecture?",
+   "hypothesis": "who was the author of seven lamps of architecture?",
+   "score": -0.12882124582926432
+  },
+  "u-PMLM_casual": {
+   "reference": "who was the author of seven lamps of architecture?",
+   "hypothesis": "who was the author of the seven lamps of architecture?",
+   "score": -0.4584870771928267
+  },
+  "u-PMLM_random": {
+   "reference": "who was the author of seven lamps of architecture?",
+   "hypothesis": "who wrote the 19th century the seven lamps of architecture?",
+   "score": -0.3287137638438832
+  }
+ },
+ "56cf1a05aab44d1400b88d7e": {
+  "fact": {
+   "context": "Manhattan's skyline, with its many skyscrapers, is universally recognized, and the city has been home to several of the tallest buildings in the world. As of 2011, New York City had 5,937 high-rise buildings, of which 550 completed structures were at least 330 feet (100 m) high, both second in the world after Hong Kong, with over 50 completed skyscrapers taller than 656 feet (200 m). These include the Woolworth Building ([HL]1913[HL]), an early gothic revival skyscraper built with massively scaled gothic detailing.",
+   "title": "New_York_City",
+   "question": "In what year was the Woolworth Building completed?",
+   "answer_text": "1913"
+  },
+  "hlsqg_casual": {
+   "reference": "in what year was the woolworth building completed?",
+   "hypothesis": "in what year was the woolworth building built?",
+   "score": -0.2109480619430542
+  },
+  "u-PMLM_casual": {
+   "reference": "in what year was the woolworth building completed?",
+   "hypothesis": "in what year was the woolworth building?",
+   "score": -0.1783995893266466
+  },
+  "u-PMLM_random": {
+   "reference": "in what year was the woolworth building completed?",
+   "hypothesis": "what year was the woolworth building completed?",
+   "score": -0.17051608032650417
+  }
+ }
+}

@@ -1,0 +1,23 @@
+[
+ {
+  "id": "56be4db0acb8001400a502ec",
+  "question": "Which NFL team represented the AFC at Super Bowl 50?",
+  "answer_start": 48,
+  "answer_text": "Denver Broncos",
+  "context": "The American Football Conference (AFC) champion Denver Broncos defeated the National Football Conference (NFC) champion Carolina Panthers 24\u201310 to earn their third Super Bowl title."
+ },
+ {
+  "id": "56be4db0acb8001400a502ee",
+  "question": "Where did Super Bowl 50 take place?",
+  "answer_start": 44,
+  "answer_text": "Levi's Stadium in the San Francisco Bay Area at Santa Clara, California.",
+  "context": "The game was played on February 7, 2016, at Levi's Stadium in the San Francisco Bay Area at Santa Clara, California."
+ },
+ {
+  "id": "5726a340dd62a815002e8bbf",
+  "question": "Which tribe did Tem\u00fcjin move in with at nine years of age?",
+  "answer_start": 166,
+  "answer_text": "Khongirad",
+  "context": "His father arranged a marriage for him, and at nine years of age he was delivered by his father to the family of his future wife B\u00f6rte, who was a member of the tribe Khongirad."
+ }
+]

@@ -1,0 +1,28 @@
+#
+# Configuration file for pre-processing: sentence splitting.
+#
+#
+# Quote:
+# With the offset of the answer to each question, we locate the sentence
+# containing the answer and use it as the input sentence. In some cases
+# (< 0.17% in training set), the answer spans two or more sentences, and we
+# then use the concatenation of the sentences as the input “sentence”.
+#
+# Paper:
+#   - https://arxiv.org/abs/1705.00106
+#  TODO: fix this script; Not applicable till now
+
+job_name:
+  paragraph-split-SQuAD-73k
+
+output_dir:
+  "{job_name}_output_tmp"
+
+logfile:
+  "{job_name}.log"
+
+doclist_dir:
+  "../txt_data/split_info/SQuAD_73k/"
+
+data_dir:
+  "../txt_data/squad"

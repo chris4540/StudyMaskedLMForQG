@@ -1,0 +1,92 @@
+[
+ {
+  "id": "57284e9fff5b5019007da153",
+  "question": "The university's center in Beijing is located next to what school's campus?",
+  "context": "The University of Chicago also maintains facilities apart from its main campus. The university's Booth School of Business maintains campuses in Singapore, London, and the downtown Streeterville neighborhood of Chicago. The Center in Paris, a campus located on the left bank of the Seine in Paris, hosts various undergraduate and graduate study programs. In fall 2010, the University of Chicago also opened a center in Beijing, near Renmin University's campus in Haidian District. The most recent additions are a center in New Delhi, India, which opened in 2014, and a center in Hong Kong which opened in 2015.",
+  "title": "University_of_Chicago",
+  "is_impossible": false,
+  "answer_text": "Renmin University",
+  "answer_start": 432
+ },
+ {
+  "id": "5727afa82ca10214002d93c4",
+  "question": "What year was North America's first printing press started?",
+  "context": "Harvard was formed in 1636 by vote of the Great and General Court of the Massachusetts Bay Colony. It was initially called \"New College\" or \"the college at New Towne\". In 1638, the college became home for North America's first known printing press, carried by the ship John of London. In 1639, the college was renamed Harvard College after deceased clergyman John Harvard, who was an alumnus of the University of Cambridge. He had left the school £779 and his library of some 400 books. The charter creating the Harvard Corporation was granted in 1650.",
+  "title": "Harvard_University",
+  "is_impossible": false,
+  "answer_text": "1638",
+  "answer_start": 171
+ },
+ {
+  "id": "572fda6fb2c2fd140056850b",
+  "question": "How are the total numbers of seats allocated to parties?",
+  "context": "The total number of seats in the Parliament are allocated to parties proportionally to the number of votes received in the second vote of the ballot using the d'Hondt method. For example, to determine who is awarded the first list seat, the number of list votes cast for each party is divided by one plus the number of seats the party won in the region (at this point just constituency seats). The party with the highest quotient is awarded the seat, which is then added to its constituency seats in allocating the second seat. This is repeated iteratively until all available list seats are allocated.",
+  "title": "Scottish_Parliament",
+  "is_impossible": false,
+  "answer_text": "proportionally to the number of votes received",
+  "answer_start": 69
+ },
+ {
+  "id": "56bf53e73aeaaa14008c95cd",
+  "question": "Which building was the NFL Experience held at for Super Bowl 50?",
+  "context": "The annual NFL Experience was held at the Moscone Center in San Francisco. In addition, \"Super Bowl City\" opened on January 30 at Justin Herman Plaza on The Embarcadero, featuring games and activities that will highlight the Bay Area's technology, culinary creations, and cultural diversity. More than 1 million people are expected to attend the festivities in San Francisco during Super Bowl Week. San Francisco mayor Ed Lee said of the highly visible homeless presence in this area \"they are going to have to leave\". San Francisco city supervisor Jane Kim unsuccessfully lobbied for the NFL to reimburse San Francisco for city services in the amount of $5 million.",
+  "title": "Super_Bowl_50",
+  "is_impossible": false,
+  "answer_text": "Moscone Center",
+  "answer_start": 42
+ },
+ {
+  "id": "5726e5ac708984140094d51c",
+  "question": "Which awards show has its rights rotated among the four major networks on a yearly basis?",
+  "context": "ABC currently holds the broadcast rights to the Academy Awards, Emmy Awards (which are rotated across all four major networks on a year-to-year basis), American Music Awards, Disney Parks Christmas Day Parade, Tournament of Roses Parade, Country Music Association Awards and the CMA Music Festival. Since 2000, ABC has also owned the television rights to most of the Peanuts television specials, having acquired the broadcast rights from CBS, which originated the specials in 1965 with the debut of A Charlie Brown Christmas (other Peanuts specials broadcast annually by ABC, including A Charlie Brown Christmas, include It's the Great Pumpkin, Charlie Brown and A Charlie Brown Thanksgiving).",
+  "title": "American_Broadcasting_Company",
+  "is_impossible": false,
+  "answer_text": "Emmy Awards",
+  "answer_start": 64
+ },
+ {
+  "id": "572ffd75b2c2fd14005686e5",
+  "question": "When did the last glacial start?",
+  "context": "The last glacial ran from ~74,000 (BP = Before Present), until the end of the Pleistocene (~11,600 BP). In northwest Europe, it saw two very cold phases, peaking around 70,000 BP and around 29,000–24,000 BP. The last phase slightly predates the global last ice age maximum (Last Glacial Maximum). During this time, the lower Rhine flowed roughly west through the Netherlands and extended to the southwest, through the English Channel and finally, to the Atlantic Ocean. The English Channel, the Irish Channel and most of the North Sea were dry land, mainly because sea level was approximately 120 m (390 ft) lower than today.",
+  "title": "Rhine",
+  "is_impossible": false,
+  "answer_text": "~74,000 (BP = Before Present)",
+  "answer_start": 26
+ },
+ {
+  "id": "571094b7a58dae1900cd6a68",
+  "question": "How many Huguenots emigrated to North America as colonists?",
+  "context": "The revocation forbade Protestant services, required education of children as Catholics, and prohibited emigration. It proved disastrous to the Huguenots and costly for France. It precipitated civil bloodshed, ruined commerce, and resulted in the illegal flight from the country of hundreds of thousands of Protestants, many of whom became intellectuals, doctors and business leaders in Britain as well as Holland, Prussia, and South Africa. Four thousand emigrated to the North American colonies, where they settled in New York and Virginia, especially. The English welcomed the French refugees, providing money from both government and private agencies to aid their relocation. Those Huguenots who stayed in France became Catholics and were called \"new converts\".",
+  "title": "Huguenot",
+  "is_impossible": false,
+  "answer_text": "Four thousand",
+  "answer_start": 442
+ },
+ {
+  "id": "5729e02f1d04691400779639",
+  "question": "In a progressive tax, what increases as the taxable base amount increases?",
+  "context": "Another cause is the rate at which income is taxed coupled with the progressivity of the tax system. A progressive tax is a tax by which the tax rate increases as the taxable base amount increases. In a progressive tax system, the level of the top tax rate will often have a direct impact on the level of inequality within a society, either increasing it or decreasing it, provided that income does not change as a result of the change in tax regime. Additionally, steeper tax progressivity applied to social spending can result in a more equal distribution of income across the board. The difference between the Gini index for an income distribution before taxation and the Gini index after taxation is an indicator for the effects of such taxation.",
+  "title": "Economic_inequality",
+  "is_impossible": false,
+  "answer_text": "tax rate",
+  "answer_start": 141
+ },
+ {
+  "id": "571c8539dd7acb1400e4c0e3",
+  "question": "In what year did Joseph Priestley recognize oxygen?",
+  "context": "Oxygen was discovered independently by Carl Wilhelm Scheele, in Uppsala, in 1773 or earlier, and Joseph Priestley in Wiltshire, in 1774, but Priestley is often given priority because his work was published first. The name oxygen was coined in 1777 by Antoine Lavoisier, whose experiments with oxygen helped to discredit the then-popular phlogiston theory of combustion and corrosion. Its name derives from the Greek roots ὀξύς oxys, \"acid\", literally \"sharp\", referring to the sour taste of acids and -γενής -genes, \"producer\", literally \"begetter\", because at the time of naming, it was mistakenly thought that all acids required oxygen in their composition. Common uses of oxygen includes the production cycle of steel, plastics and textiles, brazing, welding and cutting of steels and other metals, rocket propellant, in oxygen therapy and life support systems in aircraft, submarines, spaceflight and diving.",
+  "title": "Oxygen",
+  "is_impossible": false,
+  "answer_text": "1774",
+  "answer_start": 131
+ },
+ {
+  "id": "572f5533a23a5019007fc55f",
+  "question": "How long is the Rhine?",
+  "context": "The Rhine (Romansh: Rein, German: Rhein, French: le Rhin, Dutch: Rijn) is a European river that begins in the Swiss canton of Graubünden in the southeastern Swiss Alps, forms part of the Swiss-Austrian, Swiss-Liechtenstein border, Swiss-German and then the Franco-German border, then flows through the Rhineland and eventually empties into the North Sea in the Netherlands. The biggest city on the river Rhine is Cologne, Germany with a population of more than 1,050,000 people. It is the second-longest river in Central and Western Europe (after the Danube), at about 1,230 km (760 mi),[note 2][note 1] with an average discharge of about 2,900 m3/s (100,000 cu ft/s).",
+  "title": "Rhine",
+  "is_impossible": false,
+  "answer_text": "1,230 km (760 mi)",
+  "answer_start": 569
+ }
+]
