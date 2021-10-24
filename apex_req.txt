@@ -1,0 +1,8 @@
+# Requirement file for install the package:
+#    apex - A PyTorch Extension: Tools for easy mixed precision and distributed training in Pytorch
+# Link:
+#   https://github.com/NVIDIA/apex
+# Command:
+#   pip install -r apex_req.txt
+
+git+https://github.com/NVIDIA/apex@master --global-option="--cpp_ext" --global-option="--cuda_ext"

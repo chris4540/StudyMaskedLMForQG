@@ -1,0 +1,18 @@
+# NLTK
+nltk==3.5
+# stanza
+stanza==1.0.1
+
+# Pytorch v 1.5.0
+-f https://download.pytorch.org/whl/torch_stable.html
+torch==1.5.0+cu101
+
+# Transformer
+transformers==3.0.2
+
+# other utils
+tensorboard
+pyyaml
+multiprocessing-logging
+# nlg-eval
+git+https://github.com/Maluuba/nlg-eval.git@master
